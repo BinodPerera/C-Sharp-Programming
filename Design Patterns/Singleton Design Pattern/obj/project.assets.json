@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/Singleton Design Pattern.csproj",
+      "projectUniqueName": "/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/Singleton Design Pattern.csproj",
       "projectName": "Singleton Design Pattern",
-      "projectPath": "/Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/Singleton Design Pattern.csproj",
+      "projectPath": "/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/Singleton Design Pattern.csproj",
       "packagesPath": "/Users/binod/.nuget/packages/",
-      "outputPath": "/Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/obj/",
+      "outputPath": "/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/binod/.nuget/NuGet/NuGet.Config"

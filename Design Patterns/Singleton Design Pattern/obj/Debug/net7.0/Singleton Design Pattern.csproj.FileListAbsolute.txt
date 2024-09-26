@@ -13,3 +13,18 @@
 /Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.pdb
 /Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.genruntimeconfig.cache
 /Users/binod/Projects/Singleton Design Pattern/Singleton Design Pattern/obj/Debug/net7.0/ref/Singleton Design Pattern.dll
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/bin/Debug/net7.0/Singleton Design Pattern
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/bin/Debug/net7.0/Singleton Design Pattern.deps.json
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/bin/Debug/net7.0/Singleton Design Pattern.runtimeconfig.json
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/bin/Debug/net7.0/Singleton Design Pattern.dll
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/bin/Debug/net7.0/Singleton Design Pattern.pdb
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.csproj.AssemblyReference.cache
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.AssemblyInfoInputs.cache
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.AssemblyInfo.cs
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.csproj.CoreCompileInputs.cache
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.dll
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/refint/Singleton Design Pattern.dll
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.pdb
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/Singleton Design Pattern.genruntimeconfig.cache
+/Users/binod/Desktop/GitHub/C-Basics/Design Patterns/Singleton Design Pattern/obj/Debug/net7.0/ref/Singleton Design Pattern.dll
