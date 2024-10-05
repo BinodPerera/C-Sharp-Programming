@@ -1,0 +1,15 @@
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.AssemblyReference.cache
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfo.cs
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/bin/Debug/net7.0/FactoryMethod
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/bin/Debug/net7.0/FactoryMethod.deps.json
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/bin/Debug/net7.0/FactoryMethod.runtimeconfig.json
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/bin/Debug/net7.0/FactoryMethod.dll
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/bin/Debug/net7.0/FactoryMethod.pdb
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.dll
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/refint/FactoryMethod.dll
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.pdb
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/FactoryMethod.genruntimeconfig.cache
+/Users/diluka/Development/ASP.NET/FactoryMethod/FactoryMethod/obj/Debug/net7.0/ref/FactoryMethod.dll

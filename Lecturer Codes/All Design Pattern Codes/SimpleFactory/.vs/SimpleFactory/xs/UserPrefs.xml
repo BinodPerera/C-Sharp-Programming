@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{ACC72365-0EFD-497E-896D-A610C9B2B4D8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleFactory/Program.cs">
+    <Files>
+      <File FileName="SimpleFactory/Program.cs" Line="9" Column="31" />
+      <File FileName="SimpleFactory/BeefBurger.cs" Line="1" Column="1" />
+      <File FileName="SimpleFactory/VeggieBurger.cs" Line="1" Column="1" />
+      <File FileName="SimpleFactory/SimpleBurgerFactory.cs" Line="11" Column="5" />
+      <File FileName="SimpleFactory/Burger.cs" Line="1" Column="1" />
+      <File FileName="SimpleFactory/Restaurant.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleFactory" expanded="True">
+            <Node name="SimpleFactory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

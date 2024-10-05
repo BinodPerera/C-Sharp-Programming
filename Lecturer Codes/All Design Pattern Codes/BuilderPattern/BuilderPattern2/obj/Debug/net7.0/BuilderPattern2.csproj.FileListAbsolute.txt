@@ -1,0 +1,15 @@
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/bin/Debug/net7.0/BuilderPattern2
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/bin/Debug/net7.0/BuilderPattern2.deps.json
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/bin/Debug/net7.0/BuilderPattern2.runtimeconfig.json
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/bin/Debug/net7.0/BuilderPattern2.dll
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/bin/Debug/net7.0/BuilderPattern2.pdb
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.csproj.AssemblyReference.cache
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.AssemblyInfoInputs.cache
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.AssemblyInfo.cs
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.csproj.CoreCompileInputs.cache
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.dll
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/refint/BuilderPattern2.dll
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.pdb
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/BuilderPattern2.genruntimeconfig.cache
+/Users/diluka/Projects/BuilderPattern/BuilderPattern2/obj/Debug/net7.0/ref/BuilderPattern2.dll

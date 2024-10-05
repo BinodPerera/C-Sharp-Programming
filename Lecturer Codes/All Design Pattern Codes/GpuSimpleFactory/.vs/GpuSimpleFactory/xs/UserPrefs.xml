@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{AB4ACE54-68F6-49B4-AF83-A5A29E066592}|Default">
+  <MonoDevelop.Ide.ItemProperties.GpuSimpleFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/Program.cs">
+    <Files>
+      <File FileName="GpuSimpleFactory/Program.cs" />
+      <File FileName="GpuSimpleFactory/Gpu.cs" />
+      <File FileName="GpuSimpleFactory/MsiGpu.cs" />
+      <File FileName="GpuSimpleFactory/AsusGpu.cs" />
+      <File FileName="GpuSimpleFactory/Company.cs" />
+      <File FileName="GpuSimpleFactory/MsiManufacturer.cs" />
+      <File FileName="GpuSimpleFactory/AsusManufacturer.cs" />
+      <File FileName="ComponentFactory/Program.cs" Line="1" Column="1" />
+      <File FileName="ComponentFactory/AsusGpu.cs" />
+      <File FileName="ComponentFactory/Company.cs" Line="1" Column="1" />
+      <File FileName="ComponentFactory/AsusManufacturer.cs" />
+      <File FileName="ComponentFactory/MsiGpu.cs" />
+      <File FileName="ComponentFactory/MsiManufacturer.cs" />
+      <File FileName="ComponentFactory/MsiMonitor.cs" />
+      <File FileName="ComponentFactory/AsusMonitor.cs" />
+      <File FileName="AbstractFactory/Program.cs" Line="16" Column="10" />
+      <File FileName="AbstractFactory/AsusGpu.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/Gpu.cs" Line="7" Column="1" />
+      <File FileName="AbstractFactory/MsiGpu.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/Monitor.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/MsiMonitor.cs" />
+      <File FileName="AbstractFactory/AsusMonitor.cs" />
+      <File FileName="AbstractFactory/Company.cs" Line="11" Column="4" />
+      <File FileName="AbstractFactory/AsusManufacturer.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/MsiManufacturer.cs" Line="8" Column="33" />
+      <File FileName="ComponentFactory/Component.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GpuSimpleFactory" expanded="True" selected="True">
+            <Node name="AbstractFactory" expanded="True" />
+            <Node name="ComponentFactory" expanded="True" />
+            <Node name="GpuSimpleFactory" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

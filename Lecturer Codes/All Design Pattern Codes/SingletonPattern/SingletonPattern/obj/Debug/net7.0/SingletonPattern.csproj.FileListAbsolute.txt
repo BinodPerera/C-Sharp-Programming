@@ -1,0 +1,15 @@
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.deps.json
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.runtimeconfig.json
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.pdb
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.csproj.AssemblyReference.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.AssemblyInfo.cs
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/refint/SingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.pdb
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.genruntimeconfig.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/SingletonPattern/obj/Debug/net7.0/ref/SingletonPattern.dll

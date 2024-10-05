@@ -1,0 +1,15 @@
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/bin/Debug/net7.0/LazySingletonPattern
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/bin/Debug/net7.0/LazySingletonPattern.deps.json
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/bin/Debug/net7.0/LazySingletonPattern.runtimeconfig.json
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/bin/Debug/net7.0/LazySingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/bin/Debug/net7.0/LazySingletonPattern.pdb
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.csproj.AssemblyReference.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.AssemblyInfoInputs.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.AssemblyInfo.cs
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.csproj.CoreCompileInputs.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/refint/LazySingletonPattern.dll
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.pdb
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/LazySingletonPattern.genruntimeconfig.cache
+/Users/diluka/Development/ASP.NET/SingletonPattern/LazySingletonPattern/obj/Debug/net7.0/ref/LazySingletonPattern.dll

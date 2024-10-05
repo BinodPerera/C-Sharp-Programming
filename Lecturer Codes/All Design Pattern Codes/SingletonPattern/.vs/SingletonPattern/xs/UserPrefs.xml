@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3CE847EB-AD35-4F19-985B-4A804524F872}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/Singleton.cs">
+    <Files>
+      <File FileName="SingletonPattern/Program.cs" />
+      <File FileName="SingletonPattern/Singleton.cs" Line="25" Column="1" />
+      <File FileName="LazySingletonPattern/Program.cs" />
+      <File FileName="LazySingletonPattern/Singleton.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingletonPattern" expanded="True">
+            <Node name="LazySingletonPattern" expanded="True" />
+            <Node name="SingletonPattern" expanded="True">
+              <Node name="Singleton.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

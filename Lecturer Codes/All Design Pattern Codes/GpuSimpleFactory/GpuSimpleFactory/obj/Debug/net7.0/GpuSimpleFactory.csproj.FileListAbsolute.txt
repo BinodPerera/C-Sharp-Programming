@@ -1,0 +1,15 @@
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/bin/Debug/net7.0/GpuSimpleFactory
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/bin/Debug/net7.0/GpuSimpleFactory.deps.json
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/bin/Debug/net7.0/GpuSimpleFactory.runtimeconfig.json
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/bin/Debug/net7.0/GpuSimpleFactory.dll
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/bin/Debug/net7.0/GpuSimpleFactory.pdb
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.csproj.AssemblyReference.cache
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.AssemblyInfoInputs.cache
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.AssemblyInfo.cs
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.csproj.CoreCompileInputs.cache
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.dll
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/refint/GpuSimpleFactory.dll
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.pdb
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/GpuSimpleFactory.genruntimeconfig.cache
+/Users/diluka/Development/ASP.NET/GpuSimpleFactory/GpuSimpleFactory/obj/Debug/net7.0/ref/GpuSimpleFactory.dll

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{2976D458-01F4-4A05-91CC-426F80C78486}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inclass_03/Program.cs">
+    <Files>
+      <File FileName="Inclass_03/Program.cs" Line="9" Column="54" />
+      <File FileName="Inclass_03/IVehicle.cs" Line="7" Column="6" />
+      <File FileName="Inclass_03/IEngine.cs" Line="10" Column="1" />
+      <File FileName="../GpuSimpleFactory/AbstractFactory/Program.cs" />
+      <File FileName="Inclass_03/GasolineCar.cs" Line="12" Column="5" />
+      <File FileName="Inclass_03/GasolineTruck.cs" Line="11" Column="2" />
+      <File FileName="Inclass_03/ElectricCar.cs" Line="9" Column="10" />
+      <File FileName="Inclass_03/ElectricTruck.cs" Line="12" Column="1" />
+      <File FileName="Inclass_03/GasolineEngine.cs" Line="10" Column="6" />
+      <File FileName="Inclass_03/ElectricEngine.cs" Line="10" Column="6" />
+      <File FileName="Inclass_03/IVehicleFactory.cs" Line="9" Column="48" />
+      <File FileName="Inclass_03/GasolineCarManufacturer.cs" Line="14" Column="23" />
+      <File FileName="Inclass_03/GasolineTruckManufacturer.cs" Line="17" Column="6" />
+      <File FileName="Inclass_03/ElectricCatManufacturer.cs" Line="15" Column="6" />
+      <File FileName="Inclass_03/ElectricTruckManufacturer.cs" Line="8" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inclass_03" expanded="True">
+            <Node name="Inclass_03" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Inclass__03 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
